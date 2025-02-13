@@ -7,17 +7,17 @@ export const menuData: Menu[] = [
     newTab: false,
     path: "/",
   },
-  // {
-  //   id: 2,
-  //   title: "Shop",
-  //   newTab: false,
-  //   path: "/shop-with-sidebar",
-  // },
   {
     id: 3,
     title: "Contact",
     newTab: false,
     path: "/contact",
+  },
+  {
+    id: 2,
+    title: "Blog",
+    newTab: false,
+    path: "/blogs/blog-grid-with-sidebar",
   },
   {
     id: 7,
